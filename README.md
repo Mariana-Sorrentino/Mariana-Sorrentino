@@ -7,6 +7,7 @@
 [![Encurta-Lik](https://img.shields.io/website?label=Encurta_Link&style=for-the-badge&url=https://encurta-link-tau.vercel.app/)](https://encurta-link-tau.vercel.app/)
 [![Calculate](https://img.shields.io/website?label=Conversões&style=for-the-badge&url=https://calculate-opal.vercel.app/)](https://calculate-opal.vercel.app/)
 [![Tic-Tac-Toe](https://img.shields.io/website?label=tic-tac-toe&style=for-the-badge&url=https://tic-tac-toe-ruby-two.vercel.app/)](https://tic-tac-toe-ruby-two.vercel.app/)
+[![Programming_Quiz](https://img.shields.io/website?label=Programming-Quiz&style=for-the-badge&url=https://programmingquiz.vercel.app/)](https://programmingquiz.vercel.app/)
 
 ## Status:
 
